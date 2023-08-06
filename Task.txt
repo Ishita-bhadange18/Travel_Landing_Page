@@ -1,0 +1,8 @@
+Task 1 - create a landing page 
+1 Create  an impressive page using your creativtiy 
+- attention to alignment 
+- padding 
+- color palette 
+- boxes 
+- make sure css does not overlap 
+
